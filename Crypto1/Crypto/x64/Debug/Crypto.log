@@ -1,0 +1,8 @@
+﻿  clsCrypto.cpp
+C:\Users\benesvojtech\Desktop\Crypto1\Crypto\clsCrypto.cpp(16,21): warning C4267: =: Převod z: size_t na: int, může dojít ke ztrátě dat.
+C:\Users\benesvojtech\Desktop\Crypto1\Crypto\clsCrypto.cpp(28,21): warning C4267: =: Převod z: size_t na: int, může dojít ke ztrátě dat.
+C:\Users\benesvojtech\Desktop\Crypto1\Crypto\clsCrypto.cpp(88,26): warning C4267: =: Převod z: size_t na: int, může dojít ke ztrátě dat.
+C:\Users\benesvojtech\Desktop\Crypto1\Crypto\clsCrypto.cpp(117,29): warning C4267: =: Převod z: size_t na: int, může dojít ke ztrátě dat.
+  Crypto.cpp
+  Generování kódu...
+  Crypto.vcxproj -> C:\Users\benesvojtech\Desktop\Crypto1\x64\Debug\Crypto.exe
