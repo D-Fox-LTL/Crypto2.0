@@ -1,0 +1,4 @@
+﻿  clsCryptoX.cpp
+C:\Users\vojta\Desktop\Crypto2.0-main\Crypto2.0-main\Crypto\clsCryptoX.cpp(93,52): warning C4244: argument: LONGLONG se převádí na DWORD; může dojít ke ztrátě dat.
+C:\Users\vojta\Desktop\Crypto2.0-main\Crypto2.0-main\Crypto\clsCryptoX.cpp(115,51): warning C4244: argument: LONGLONG se převádí na DWORD; může dojít ke ztrátě dat.
+  Crypto.vcxproj -> C:\Users\vojta\Desktop\Crypto2.0-main\Crypto2.0-main\x64\Debug\Crypto.exe
